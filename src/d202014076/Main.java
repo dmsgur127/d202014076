@@ -6,5 +6,6 @@ public class Main {
 		System.out.println("손은혁");
 		World.run();
 		Hello.run();
+		World.run2();
 	}
 }
